@@ -55,7 +55,7 @@ $(window).on("load", function () {
   $("#quote-form").validator();
 
   $("#contact-form").on("submit", function (e) {
-    var url = "https://formspree.io/f/mwkyogwk";
+    var url = "https://formspree.io/f/xeqnkopv";
     let valid = true;
     $("#contact-form")
       .find("[required]")
@@ -81,7 +81,7 @@ $(window).on("load", function () {
   });
 
   $("#quote-form").on("submit", function (e) {
-    var url = "https://formspree.io/f/mwkyogwk";
+    var url = "https://formspree.io/f/xeqnkopv";
     let valid = true;
     $("#quote-form")
       .find("[required]")
